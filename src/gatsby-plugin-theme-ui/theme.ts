@@ -62,7 +62,7 @@ const theme: Theme = {
     body: {
       fontWeight: 'normal',
       fontSize: 5,
-      marginTop: 2,      
+      marginTop: 2,
       marginBottom:2,
       color: "text.primary",
       lineHeight: "body"
